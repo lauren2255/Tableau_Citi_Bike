@@ -1,0 +1,15 @@
+Visualization 1: In 2023, Citi bikes were used most during the Summer season, followed by Autumn, Spring, then Winter. This is likely due to weather patterns and tourism, as bike-riding in the Winter is less popular due to the cold, wind, and snow.
+
+Visualization 2: Citi bikes were used most frequently during the late morning, afternoon, and early evening for both Summer and Winter. This makes sense as individuals are generally more physically active during those times than in the late evening and early morning. 
+
+Visualization 3: The most frequent time of day for rides was 5-6pm, possibly due to biking home from work or school. Interestingly, there is a higher ratio of late morning trips to afternoon trips in the Winter compared to Summer. This may be due to a large portion of student bikers using bikes as their mode of transportation for getting to class in the morning during the Winter, as less students have class in the Summer.
+
+Visualization 4: There is a higher ratio of casual to member riders in the Summer compared to the Winter even though there are significantly more riders in the Summer than Winter. This can be explained by tourists not residing in New York renting Citi bikes to explore the city in the Summer time. The member riders are likely locals that use Citi bikes regularly to commute to work, run errands, etc.
+
+Visualization 5: Several stations where riders ended their trips (i.e. desination stations) overlap as most popular for Summer and Winter. Some of those are 21st & 6th Ave (Canal St), University Pl & E 14th St (Union Square), 1st Ave & 68th St (Lenox Hill shopping area), and Broadway & W 58th St (Columbus Circle). These are all popular tourism destinations.
+
+Visualization 6: The Top 10 Destination Stations in the Summer are concentrated in only the Manhattan neighborhood, and each station is in an area high in tourism, spread out across the neighborhood. There are also several stations along the coastal borders of Manhattan.
+
+Visualization 7: The Top 10 Destination Stations in the Winter are also concentrated in the Manhattan neighborhood alone, however the stations are more centralized than the Summer map, i.e. the stations around the coastal borders of Manhattan are less popular in Winter, likely due to cold and wind. 
+
+Visualization 8: Most bike rentals throughout the year take place in Manhattan compared to the other boroughs of New York City. Urban areas have more bikes rented than suburban areas. The Lower side of Manhattan has more bikes rented than the Upper side.
